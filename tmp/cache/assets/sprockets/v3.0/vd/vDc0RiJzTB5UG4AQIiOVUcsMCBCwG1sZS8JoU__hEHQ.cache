@@ -1,0 +1,60 @@
+{:uriI"İfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/idl/index.html?type=text/html&id=88160b9de0bbdb0bac89ede9c8aba0b5333d44789d7f9e7f9fab9367187e2813:ET:load_pathI"app/assets/assets;T:filenameI"Dapp/assets/assets/global/plugins/codemirror/mode/idl/index.html;T:	nameI"-global/plugins/codemirror/mode/idl/index;T:logical_pathI"2global/plugins/codemirror/mode/idl/index.html;T:content_typeI"text/html;T:sourceI"M<!doctype html>
+<title>CodeMirror: IDL mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="idl.js"></script>
+<style type="text/css">
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">IDL</a>
+    </ul>
+</div>
+<article>
+    <h2>IDL mode</h2>
+    <div>
+        <textarea id="code" name="code"> ;; Example IDL code FUNCTION mean_and_stddev,array ;; This program reads in an array of numbers ;; and returns a structure containing the ;; average and standard deviation ave = 0.0 count = 0.0 for i=0,N_ELEMENTS(array)-1 do begin ave = ave +
+            array[i] count = count + 1 endfor ave = ave/count std = stddev(array) return, {average:ave,std:std} END </textarea>
+    </div>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            mode:
+            {
+                name: "idl",
+                version: 1,
+                singleLineStringErrors: false
+            },
+            lineNumbers: true,
+            indentUnit: 4,
+            matchBrackets: true
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-idl</code>.</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"‘file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/idl/index.html;TTF:charsetI"
+utf-8;F:digest"%#è—Å›‡ >ËAŸ§ÿÓ]‡°`æÖP_Òsµş»ê:lengthiM:dependencies_digest"%# ÒzEšïŠGCõ°€«ôÁ$g»yUìÇbëÄšš:idI"E88160b9de0bbdb0bac89ede9c8aba0b5333d44789d7f9e7f9fab9367187e2813;F:
+mtimel+¦úW

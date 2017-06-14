@@ -1,0 +1,47 @@
+{:uriI"Øfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/italy.json?type=application/json&id=a8f058dfb37940366bc5aac7e81cc0e08b1633c76a7994b2d613f6afb1cb49c0:ET:load_pathI"app/assets/assets;T:filenameI"8app/assets/assets/global/plugins/mapplic/italy.json;T:	nameI"!global/plugins/mapplic/italy;T:logical_pathI"&global/plugins/mapplic/italy.json;T:content_typeI"application/json;T:sourceI"Q{
+	"mapwidth":"800",
+	"mapheight":"1000",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"italy",
+			"title":"Italy",
+			"map":"maps/italy.svg",
+			"minimap": "maps/italy-mini.jpg",
+			"locations":[
+				{
+					"id": "rome",
+					"title": "Rome",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "circular",
+					"x": "0.5054",
+					"y": "0.4586"
+				},
+				{
+					"id": "tuscany",
+					"title": "Tuscany",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.3965",
+					"y": "0.3424"
+				},
+				{
+					"id": "campania",
+					"title": "Campania",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"fill": "#4d5e6d",
+					"pin": "hidden",
+					"x": "0.6797",
+					"y": "0.5378"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"…file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/italy.json;TTF:charsetI"
+utf-8;F:digest"%ù6"Ù?µ‰ÉF‡¶^ñp?‡ŸÈyú7&—R-çÐ:lengthiQ:dependencies_digest"%"ôUöµ°žÀtmtšøC%pˆC&‘Qâ…¯5öBáü+:idI"Ea8f058dfb37940366bc5aac7e81cc0e08b1633c76a7994b2d613f6afb1cb49c0;F:
+mtimel+JîW

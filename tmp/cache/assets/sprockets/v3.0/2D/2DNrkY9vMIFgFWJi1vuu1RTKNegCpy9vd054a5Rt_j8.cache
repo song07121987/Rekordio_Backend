@@ -1,0 +1,41 @@
+{:uriI"‹file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/negative.html?type=text/html&id=b3afd5a52e428da106c8d078a599a89b4348a3929b65770c11899fe1257dac0e:ET:load_pathI"app/assets/assets;T:filenameI"Capp/assets/assets/global/plugins/morris/examples/negative.html;T:	nameI",global/plugins/morris/examples/negative;T:logical_pathI"1global/plugins/morris/examples/negative.html;T:content_typeI"text/html;T:sourceI"ª<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Negative values</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+var neg_data = [
+  {"period": "2011-08-12", "a": 100},
+  {"period": "2011-03-03", "a": 75},
+  {"period": "2010-08-08", "a": 50},
+  {"period": "2010-05-10", "a": 25},
+  {"period": "2010-03-14", "a": 0},
+  {"period": "2010-01-10", "a": -25},
+  {"period": "2009-12-10", "a": -50},
+  {"period": "2009-10-07", "a": -75},
+  {"period": "2009-09-25", "a": -100}
+];
+Morris.Line({
+  element: 'graph',
+  data: neg_data,
+  xkey: 'period',
+  ykeys: ['a'],
+  labels: ['Series A'],
+  units: '%'
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"êfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/negative.html;TTF:charsetI"
+utf-8;F:digest"%Ëq°§6
+¨-yF7MFòØËï°à©´PñF◊˙Î1:lengthiª:dependencies_digest"%∂i%uà&d»’FXøA•÷;ÏË,Rà…úo} 
+:idI"Eb3afd5a52e428da106c8d078a599a89b4348a3929b65770c11899fe1257dac0e;F:
+mtimel+¶˙W

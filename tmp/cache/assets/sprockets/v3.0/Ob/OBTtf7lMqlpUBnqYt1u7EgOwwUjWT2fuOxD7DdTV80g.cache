@@ -1,0 +1,34 @@
+{:uriI"îfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-slimscroll/slimScroll.jquery.json?type=application/json&id=d863443aba55ea7c035893ffae0cbcdeb9c33456c1e20a37afdbb41b3ad6cf3e:ET:load_pathI"app/assets/assets;T:filenameI"Napp/assets/assets/global/plugins/jquery-slimscroll/slimScroll.jquery.json;T:	nameI"7global/plugins/jquery-slimscroll/slimScroll.jquery;T:logical_pathI"<global/plugins/jquery-slimscroll/slimScroll.jquery.json;T:content_typeI"application/json;T:sourceI"©{
+  "name"        : "slimScroll",
+  "version"     : "1.3.2",
+  "title"       : "jQuery slimScroll scrollbar",
+  "description" : "slimScroll is a small jQuery plugin that transforms any div into a scrollable area. slimScroll doesn't occupy any visual space as it only appears on a user initiated mouse-over.",
+  "keywords"    : ["scrollbar", "scroll", "slimscroll", "scrollable", "scrolling", "scroller", "ui"],
+  "demo"        : "http://rocha.la/jQuery-slimScroll/",
+  "homepage"    : "http://rocha.la/jQuery-slimScroll/",
+  "download"    : "http://rocha.la/jQuery-slimScroll/",
+
+  "author" : {
+    "name"  : "Piotr Rochala",
+    "url"   : "http://rocha.la/"
+  },
+
+  "dependencies" : {
+    "jquery" : ">= 1.7"
+  },
+
+  "licenses" : [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "GPL",
+      "url": "http://www.opensource.org/licenses/gpl-license.php"
+    }
+  ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"›file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-slimscroll/slimScroll.jquery.json;TTF:charsetI"
+utf-8;F:digest"%éˆ€‰ÎÖ= WË»O¬>lø|ø’1Õ'æ|ã/Î:lengthi©:dependencies_digest"%™â~tÂ*£±KâÇ*{$ šõœê5¹~İXo:ËJ:idI"Ed863443aba55ea7c035893ffae0cbcdeb9c33456c1e20a37afdbb41b3ad6cf3e;F:
+mtimel+HîW

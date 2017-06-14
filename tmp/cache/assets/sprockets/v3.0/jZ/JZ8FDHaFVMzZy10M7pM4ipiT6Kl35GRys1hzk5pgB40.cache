@@ -1,0 +1,100 @@
+{:uriI"file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/serial.json?type=application/json&id=584bc7f48aeddb0ef8b95f09adb36ee77a736a2ef4cab0a96b05f001093c50c5:ET:load_pathI"app/assets/assets;T:filenameI"aapp/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/serial.json;T:	nameI"Jglobal/plugins/amcharts/ammap/plugins/dataloader/examples/data/serial;T:logical_pathI"Oglobal/plugins/amcharts/ammap/plugins/dataloader/examples/data/serial.json;T:content_typeI"application/json;T:sourceI"≠[{
+  "year": 2000,
+  "cars": 1587,
+  "motorcycles": 650,
+  "bicycles": 121
+}, {
+  "year": 1995,
+  "cars": 1567,
+  "motorcycles": 683,
+  "bicycles": 146
+}, {
+  "year": 1996,
+  "cars": 1617,
+  "motorcycles": 691,
+  "bicycles": 138
+}, {
+  "year": 1997,
+  "cars": 1630,
+  "motorcycles": 642,
+  "bicycles": 127
+}, {
+  "year": 1998,
+  "cars": 1660,
+  "motorcycles": 699,
+  "bicycles": 105
+}, {
+  "year": 1999,
+  "cars": 1683,
+  "motorcycles": 721,
+  "bicycles": 109
+}, {
+  "year": 2000,
+  "cars": 1691,
+  "motorcycles": 737,
+  "bicycles": 112
+}, {
+  "year": 2001,
+  "cars": 1298,
+  "motorcycles": 680,
+  "bicycles": 101
+}, {
+  "year": 2002,
+  "cars": 1275,
+  "motorcycles": 664,
+  "bicycles": 97
+}, {
+  "year": 2003,
+  "cars": 1246,
+  "motorcycles": 648,
+  "bicycles": 93
+}, {
+  "year": 2004,
+  "cars": 1218,
+  "motorcycles": 637,
+  "bicycles": 101
+}, {
+  "year": 2005,
+  "cars": 1213,
+  "motorcycles": 633,
+  "bicycles": 87
+}, {
+  "year": 2006,
+  "cars": 1199,
+  "motorcycles": 621,
+  "bicycles": 79
+}, {
+  "year": 2007,
+  "cars": 1110,
+  "motorcycles": 210,
+  "bicycles": 81
+}, {
+  "year": 2008,
+  "cars": 1165,
+  "motorcycles": 232,
+  "bicycles": 75
+}, {
+  "year": 2009,
+  "cars": 1145,
+  "motorcycles": 219,
+  "bicycles": 88
+}, {
+  "year": 2010,
+  "cars": 1163,
+  "motorcycles": 201,
+  "bicycles": 82
+}, {
+  "year": 2011,
+  "cars": 1180,
+  "motorcycles": 285,
+  "bicycles": 87
+}, {
+  "year": 2012,
+  "cars": 1159,
+  "motorcycles": 277,
+  "bicycles": 71
+}];T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Æfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/data/serial.json;TTF:charsetI"
+utf-8;F:digest"%˘Û∏3≈∏ñœ)≥i|)»ÿ=•†¡…g|QO"V:lengthi≠:dependencies_digest"%˝_iƒU*ñΩÒÎ A‘mˇiSìÉl-2pêıx:idI"E584bc7f48aeddb0ef8b95f09adb36ee77a736a2ef4cab0a96b05f001093c50c5;F:
+mtimel+@ÓW

@@ -1,0 +1,57 @@
+{:uriI"ﬁfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/rust/index.html?type=text/html&id=5ca13a19d992a33ca4f875c4d69b1e237dfc15ae90907e47629f7f14d6b780a0:ET:load_pathI"app/assets/assets;T:filenameI"Eapp/assets/assets/global/plugins/codemirror/mode/rust/index.html;T:	nameI".global/plugins/codemirror/mode/rust/index;T:logical_pathI"3global/plugins/codemirror/mode/rust/index.html;T:content_typeI"text/html;T:sourceI"ì<!doctype html>
+<title>CodeMirror: Rust mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="../../addon/mode/simple.js"></script>
+<script src="rust.js"></script>
+<style type="text/css">
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Rust</a>
+    </ul>
+</div>
+<article>
+    <h2>Rust mode</h2>
+    <div>
+        <textarea id="code" name="code"> // Demo code. type foo
+            <T> = int; enum bar { some(int, foo
+                <float>), none } fn check_crate(x: int) { let v = 10; match foo { 1 ... 3 { print_foo(); if x { blah().to_string(); } } (x, y) { "bye" } _ { "hi" } } } </textarea>
+    </div>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            lineNumbers: true,
+            lineWrapping: true,
+            indentUnit: 4,
+            mode: "rust"
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-rustsrc</code>.</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ífile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/rust/index.html;TTF:charsetI"
+utf-8;F:digest"%SËã¨0o∑¢M√&C∑©C£€Ê÷/¯á5X.A?Fõ|´:lengthiì:dependencies_digest"%èöü/i2Áb±÷D)pÆ∫+WË\Î˛RûıµDgã#¨:idI"E5ca13a19d992a33ca4f875c4d69b1e237dfc15ae90907e47629f7f14d6b780a0;F:
+mtimel+¶˙W

@@ -1,0 +1,5 @@
+alert("here");
+$("#login_form").on("ajax:success", function(event, data, status, xhr) {
+      console.log("form submitted");
+      console.log(data);
+})

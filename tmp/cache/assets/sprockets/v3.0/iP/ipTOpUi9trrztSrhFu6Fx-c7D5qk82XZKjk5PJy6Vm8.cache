@@ -1,0 +1,53 @@
+{:uriI"�file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/russia.json?type=application/json&id=007f998444f15227a69db09c88aa20505e1d6c83be07d81c61be56d670252763:ET:load_pathI"app/assets/assets;T:filenameI"9app/assets/assets/global/plugins/mapplic/russia.json;T:	nameI""global/plugins/mapplic/russia;T:logical_pathI"'global/plugins/mapplic/russia.json;T:content_typeI"application/json;T:sourceI"{
+	"mapwidth":"1100",
+	"mapheight":"640",
+	"categories":[],
+	"levels":[
+		{
+			"id":"russia",
+			"title":"Russia",
+			"map":"maps/russia.svg",
+			"minimap": "maps/russia-mini.jpg",
+			"locations":[
+				{
+					"id": "MOW",
+					"title": "Москва",
+					"description": "<p>Москва.</p>",
+					"pin": "circular",
+					"x": "0.1265",
+					"y": "0.5905"
+				},
+				{
+					"id": "Екатеринбург",
+					"title": "Екатеринбург",
+					"description": "<p>Yekaterinburg.</p>",
+					"pin": "circular",
+					"x": "0.2798",
+					"y": "0.7284"
+				},
+				{
+					"id": "YAN",
+					"title": "Yamalia",
+					"description": "<p>Яма́ло-Не́нецкий автоно́мный о́круг</p>",
+					"fill": "#4d5e6d",
+					"pin": "hidden",
+					"x": "0.3953",
+					"y": "0.5688"
+				},
+				{
+					"id": "SA",
+					"title": "Республика Саха",
+					"description": "<p>Республика Саха</p>",
+					"fill": "#4d5e6d",
+					"pin": "hidden",
+					"x": "0.6779",
+					"y": "0.4929"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"�file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/russia.json;TTF:charsetI"
+utf-8;F:digest"%nͶ�@1�1����o�M�X�,���e�H:lengthi:dependencies_digest"%�����ڨnKQz�MD��[u�������#K�D��:idI"E007f998444f15227a69db09c88aa20505e1d6c83be07d81c61be56d670252763;F:
+mtimel+J�W

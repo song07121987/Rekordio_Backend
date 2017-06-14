@@ -1,0 +1,53 @@
+{:uriI"Üfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/australia.json?type=application/json&id=7445b44967ce3b86782c2bd53c907842490f17b8aad8f3d26c1e582e4c2b06ff:ET:load_pathI"app/assets/assets;T:filenameI"<app/assets/assets/global/plugins/mapplic/australia.json;T:	nameI"%global/plugins/mapplic/australia;T:logical_pathI"*global/plugins/mapplic/australia.json;T:content_typeI"application/json;T:sourceI"‚{
+	"mapwidth":"600",
+	"mapheight":"540",
+	"categories":[],
+	"levels":[
+		{
+			"id":"australia",
+			"title":"Australia",
+			"map":"maps/australia.svg",
+			"locations":[
+				{
+					"id": "nsw",
+					"title": "New South Wales",
+					"description": "<p>New South Wales</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7958",
+					"y": "0.6467"
+				},
+				{
+					"id": "nt",
+					"title": "Northern Territory.",
+					"description": "<p>Northern Territory</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.4877",
+					"y": "0.2952"
+				},
+				{
+					"id": "melbourne",
+					"title": "Melbourne",
+					"description": "Melbourne.",
+					"pin": "circular",
+					"x": "0.7645",
+					"y": "0.7738"
+				},
+				{
+					"id": "perth",
+					"title": "Perth",
+					"description": "Perth description.",
+					"pin": "circular",
+					"x": "0.1140",
+					"y": "0.6024"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‰file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/australia.json;TTF:charsetI"
+utf-8;F:digest"%ç¿P™ZF
+T'£0€¾?Ö—Û¯¹Úç­m^:lengthi‚:dependencies_digest"%œ%7|Þ:Ù²Ûcþ€MA°GKB†‚ó¨Îšå¤:idI"E7445b44967ce3b86782c2bd53c907842490f17b8aad8f3d26c1e582e4c2b06ff;F:
+mtimel+JîW

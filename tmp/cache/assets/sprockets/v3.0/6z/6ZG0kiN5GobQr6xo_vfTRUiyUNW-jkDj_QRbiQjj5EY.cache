@@ -1,0 +1,42 @@
+{:uriI"âfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-knob/knob.jquery.json?type=application/json&id=e61ad5394ef73a61cf7adfd36c72cddef9bd1490134f4cfded0b730eee7a4b43:ET:load_pathI"app/assets/assets;T:filenameI"Bapp/assets/assets/global/plugins/jquery-knob/knob.jquery.json;T:	nameI"+global/plugins/jquery-knob/knob.jquery;T:logical_pathI"0global/plugins/jquery-knob/knob.jquery.json;T:content_typeI"application/json;T:sourceI"×{
+    "name": "knob",
+    "title": "jQuery Knob",
+    "description": "Nice, downward compatible, touchable, jQuery dial.",
+    "keywords": [
+        "dial",
+        "button",
+        "knob",
+        "ui",
+        "input"
+    ],
+    "version": "1.2.8",
+    "author": {
+        "name": "Anthony Terrien",
+        "url": "https://github.com/aterrien"
+    },
+    "maintainers": [
+        {
+            "name": "Anthony Terrien",
+            "email": "kontrol@anthonyterrien.com",
+            "url": "http://anthonyterrien.com/knob"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/aterrien/jQuery-Knob/issues",
+    "homepage": "https://github.com/aterrien/jQuery-Knob",
+    "docs": "https://github.com/aterrien/jQuery-Knob",
+    "download": "https://github.com/aterrien/jQuery-Knob/tags",
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-knob/knob.jquery.json;TTF:charsetI"
+utf-8;F:digest"%ÈÙÂ1©è‘+¹AKy.jÙt^ešÅÜ:j³İÄÄ¥»hÑ:lengthi×:dependencies_digest"%eŞo‡è5—€û­¥6Gç8ë¶$eHCµÕ"³›ÈçİŠ:idI"Ee61ad5394ef73a61cf7adfd36c72cddef9bd1490134f4cfded0b730eee7a4b43;F:
+mtimel+HîW

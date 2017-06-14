@@ -1,0 +1,72 @@
+{:uriI"›file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/continents.json?type=application/json&id=e2365352fdd272e170a1901cb155dd606613656a3cff18c33f78d384c33c4dfd:ET:load_pathI"app/assets/assets;T:filenameI"=app/assets/assets/global/plugins/mapplic/continents.json;T:	nameI"&global/plugins/mapplic/continents;T:logical_pathI"+global/plugins/mapplic/continents.json;T:content_typeI"application/json;T:sourceI"Ì{
+	"mapwidth":"400",
+	"mapheight":"220",
+	"categories":[],
+	"levels":[
+		{
+			"id":"world",
+			"title":"World",
+			"map":"maps/world-continents.svg",
+			"locations":[
+				{
+					"id": "northamerica",
+					"title": "North America",
+					"description": "North America",
+					"pin": "hidden",
+					"fill": "#82c03e",
+					"x": "0.2184",
+					"y": "0.2539"
+				},
+				{
+					"id": "europe",
+					"title": "Europe",
+					"description": "Europe.",
+					"fill": "#795ecd",
+					"pin": "hidden",
+					"x": "0.5516",
+					"y": "0.2517"
+				},
+				{
+					"id": "africa",
+					"title": "Africa",
+					"description": "Africa",
+					"pin": "hidden",
+					"fill": "#f19819",
+					"x": "0.5439",
+					"y": "0.6268"
+				},
+				{
+					"id": "asia",
+					"title": "Asia",
+					"description": "Asia",
+					"pin": "hidden",
+					"fill": "#f23543",
+					"x": "0.7643",
+					"y": "0.3136"
+				},
+				{
+					"id": "australia",
+					"title": "Australia",
+					"description": "Australia",
+					"pin": "hidden",
+					"fill": "#fdca2a",
+					"x": "0.9034",
+					"y": "0.7443"
+				},
+				{
+					"id": "southamerica",
+					"title": "South America",
+					"description": "South America",
+					"pin": "hidden",
+					"fill": "#29afa1",
+					"x": "0.2910",
+					"y": "0.7673"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"äfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/continents.json;TTF:charsetI"
+utf-8;F:digest"%ê|∫X≈y≥π8W4]…†◊Ô%¬	µ◊»X¡3Å:lengthiÌ:dependencies_digest"%≠(åÆB•bL®s”È˝‘Ì/¸ô©*Æ$ï˘‰£[:idI"Ee2365352fdd272e170a1901cb155dd606613656a3cff18c33f78d384c33c4dfd;F:
+mtimel+JÓW

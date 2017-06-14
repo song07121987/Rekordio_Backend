@@ -1,0 +1,23 @@
+{:uriI"æfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-minicolors/component.json?type=application/json&id=69d2d14cf93453c6475339f85f51799710f1bd743ba406816a553077943476dc:ET:load_pathI"app/assets/assets;T:filenameI"Fapp/assets/assets/global/plugins/jquery-minicolors/component.json;T:	nameI"/global/plugins/jquery-minicolors/component;T:logical_pathI"4global/plugins/jquery-minicolors/component.json;T:content_typeI"application/json;T:sourceI"ı{
+    "name"         : "jquery-minicolors",
+    "version"      : "2.1.10",
+    "description"  : "jQuery MiniColors Plugin",
+    "homepage"     : "",
+    "main"         : [ "./jquery.minicolors.js", "./jquery.minicolors.css" ],
+    "dependencies" : {
+        "jquery" : ">= 1.7.x"
+    },
+    "keywords"     : [
+    ],
+    "author" : {
+        "name" : "Cory LaViska",
+        "web"  : "http://www.abeautifulsite.net/"
+    },
+    "license": [
+        "http://www.opensource.org/licenses/mit-license.php"
+    ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"“file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-minicolors/component.json;TTF:charsetI"
+utf-8;F:digest"%BkBy9M›m&|:üÎõ®!ÃÇL×•:¬ú&„:lengthiı:dependencies_digest"%üÇ°GÏtèn ıŠæÿ/ ÄŒ ¡Øxê¶Ä½­q´:idI"E69d2d14cf93453c6475339f85f51799710f1bd743ba406816a553077943476dc;F:
+mtimel+HîW

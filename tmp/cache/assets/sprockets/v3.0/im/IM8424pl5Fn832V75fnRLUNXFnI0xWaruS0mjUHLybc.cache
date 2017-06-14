@@ -1,0 +1,34 @@
+{:uriI"àfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/stacked_bars.html?type=text/html&id=8c451b4234c1c799e5e2fdbe4b90c595cc69c5e647bc070d7741111880c1575f:ET:load_pathI"app/assets/assets;T:filenameI"Gapp/assets/assets/global/plugins/morris/examples/stacked_bars.html;T:	nameI"0global/plugins/morris/examples/stacked_bars;T:logical_pathI"5global/plugins/morris/examples/stacked_bars.html;T:content_typeI"text/html;T:sourceI"<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Stacked Bars chart</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// Use Morris.Bar
+Morris.Bar({
+  element: 'graph',
+  data: [
+    {x: '2011 Q1', y: 3, z: 2, a: 3},
+    {x: '2011 Q2', y: 2, z: null, a: 1},
+    {x: '2011 Q3', y: 0, z: 2, a: 4},
+    {x: '2011 Q4', y: 2, z: 4, a: 3}
+  ],
+  xkey: 'x',
+  ykeys: ['y', 'z', 'a'],
+  labels: ['Y', 'Z', 'A'],
+  stacked: true
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"”file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/stacked_bars.html;TTF:charsetI"
+utf-8;F:digest"%gß1ÇÒmÎLÆB˜˜!Î)şÕŞ¼øm­S;‘€Œ:lengthi:dependencies_digest"%a!âKIŞtê¶Ä§—Ùj¶.ô\G^e½N«X›­~y:idI"E8c451b4234c1c799e5e2fdbe4b90c595cc69c5e647bc070d7741111880c1575f;F:
+mtimel+¦úW

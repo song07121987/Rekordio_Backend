@@ -1,0 +1,62 @@
+{:uriI"Ÿfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/europe.json?type=application/json&id=82cc86da337995ce4202b0456ce5cb71d1a404a8f23af28c4c5ed85a2dd20f9b:ET:load_pathI"app/assets/assets;T:filenameI"9app/assets/assets/global/plugins/mapplic/europe.json;T:	nameI""global/plugins/mapplic/europe;T:logical_pathI"'global/plugins/mapplic/europe.json;T:content_typeI"application/json;T:sourceI"Ê{
+	"mapwidth":"1200",
+	"mapheight":"1200",
+	"levels":[
+		{
+			"id":"europe",
+			"title":"Europe",
+			"map":"maps/europe.svg",
+			"minimap": "maps/europe-mini.jpg",
+			"locations":[
+				{
+					"id": "hu",
+					"title": "Hungary",
+					"description": "Hungary.",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.5819",
+					"y": "0.6161"
+				},
+				{
+					"id": "gb",
+					"title": "United Kingdom",
+					"description": "England.",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.2594",
+					"y": "0.4360"
+				},
+				{
+					"id": "fr",
+					"title": "France",
+					"description": "France.",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.3119",
+					"y": "0.6485"
+				},
+				{
+					"id": "de",
+					"title": "Germany",
+					"description": "<p>Sed sed est sem. Donec et pretium justo, sodales finibus risus. Donec vulputate neque felis, ut porta turpis ultrices sit amet.</p><p>Nullam ut lectus massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc lobortis pretium velit eu maximus. Integer a faucibus libero.</p><p>Ut id eleifend sem, faucibus consectetur ligula. Proin vel vestibulum dui. Sed rhoncus eleifend velit, a sodales eros auctor ut.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.4331",
+					"y": "0.5437"
+				},
+				{
+					"id": "barcelona",
+					"title": "Barcelona",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "circular",
+					"x": "0.2903",
+					"y": "0.7645"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Üfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/europe.json;TTF:charsetI"
+utf-8;F:digest"%ØùË‹ƒüÕ$,b¸°ÁsL÷ê=¯–)∂˝+Ì˜Ë°:lengthiÊ:dependencies_digest"%ôVu£®[„êÑvøM®)ﬂ:[§']”È9Õ¿u§Ì:idI"E82cc86da337995ce4202b0456ce5cb71d1a404a8f23af28c4c5ed85a2dd20f9b;F:
+mtimel+JÓW

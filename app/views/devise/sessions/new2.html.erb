@@ -1,0 +1,37 @@
+<%= simple_form_for(resource, as: resource_name, url: session_path(resource_name), role: "form", html: {id: "sign_in_user", class: "login__form", autocomplete: "off", :'data-type' => 'json'}, remote: true) do |f| %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= email_field_tag :fake_email, nil, required: false %>
+  </div>
+  <div class="field">
+    <%= f.label :price %><br />
+    <%= password_field_tag :fake_password, nil, required: false %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+  <dir id="test">
+    <span>alsdkfjasdlf;kjasdf;laksjdfls;kj</span>
+  </dir>
+<% end %>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#sign_in_user").submit(function(data) {
+      $.ajax({
+        url: $("#sign_in_user").attr("action"),
+        type: "post",
+        dataType: "json",
+        data: $("#sign_in_user").serialize()
+      }).success(function(data) {
+        console.log("success");
+        console.log(data);
+          return true
+      }).fail(function(data) {
+          console.log("failed");
+      })
+      return false
+    })
+});
+</script>

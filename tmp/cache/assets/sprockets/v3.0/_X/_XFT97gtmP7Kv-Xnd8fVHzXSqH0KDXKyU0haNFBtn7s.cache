@@ -1,0 +1,68 @@
+{:uriI"ùfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/gauge_json.html?type=text/html&id=c095b1809f484a581a32b4624c1879e890b0b26c634c6914a92afe221fd3ad85:ET:load_pathI"app/assets/assets;T:filenameI"`app/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/gauge_json.html;T:	nameI"Iglobal/plugins/amcharts/ammap/plugins/dataloader/examples/gauge_json;T:logical_pathI"Nglobal/plugins/amcharts/ammap/plugins/dataloader/examples/gauge_json.html;T:content_typeI"text/html;T:sourceI"Ù<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>amCharts Data Loader Example</title>
+        <script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="http://www.amcharts.com/lib/3/gauge.js"></script>
+        <script src="../dataloader.min.js"></script>
+        <style>
+            body,
+            html {
+                font-family: Verdana;
+                font-size: 12px;
+            }
+            
+            #chartdiv {
+                width: 100%;
+                height: 500px;
+            }
+        </style>
+        <script>
+            var chart = AmCharts.makeChart("chartdiv",
+            {
+                "type": "gauge",
+                "startDuration": 0.1,
+                "dataLoader":
+                {
+                    "url": "data/gauge.json"
+                },
+                "axes": [
+                {
+                    "id": "axis1",
+                    "axisAlpha": 0,
+                    "endAngle": 360,
+                    "endValue": 12,
+                    "minorTickInterval": 0.2,
+                    "showFirstLabel": false,
+                    "startAngle": 0,
+                    "topTextYOffset": 100,
+                    "valueInterval": 1
+                },
+                {
+                    "id": "axis2",
+                    "axisAlpha": 0,
+                    "endAngle": 360,
+                    "endValue": 60,
+                    "radius": 60,
+                    "showFirstLabel": false,
+                    "startAngle": 0,
+                    "valueInterval": 5,
+                    "labelFrequency": 0,
+                    "tickLength": 10
+                }]
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="chartdiv"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"­file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples/gauge_json.html;TTF:charsetI"
+utf-8;F:digest"%Í<°{@’bÒ92÷Ì1F‡‰Û€Ägr²æmËöñÂ+:lengthiÙ:dependencies_digest"%yRK:·¤µA­'î>Ã'8"ÈhKJ™$Jà†áÂ¶¼:idI"Ec095b1809f484a581a32b4624c1879e890b0b26c634c6914a92afe221fd3ad85;F:
+mtimel+¦úW

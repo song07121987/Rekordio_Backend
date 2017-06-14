@@ -1,0 +1,34 @@
+{:uriI"ßfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/bar-no-axes.html?type=text/html&id=87f04c83b92c02ae8b86527e4e00ab014700acb17b68b0a9176060476c52bf2c:ET:load_pathI"app/assets/assets;T:filenameI"Fapp/assets/assets/global/plugins/morris/examples/bar-no-axes.html;T:	nameI"/global/plugins/morris/examples/bar-no-axes;T:logical_pathI"4global/plugins/morris/examples/bar-no-axes.html;T:content_typeI"text/html;T:sourceI"<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Bar charts</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// Use Morris.Bar
+Morris.Bar({
+  element: 'graph',
+  axes: false,
+  data: [
+    {x: '2011 Q1', y: 3, z: 2, a: 3},
+    {x: '2011 Q2', y: 2, z: null, a: 1},
+    {x: '2011 Q3', y: 0, z: 2, a: 4},
+    {x: '2011 Q4', y: 2, z: 4, a: 3}
+  ],
+  xkey: 'x',
+  ykeys: ['y', 'z', 'a'],
+  labels: ['Y', 'Z', 'A']
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"“file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/bar-no-axes.html;TTF:charsetI"
+utf-8;F:digest"%U†ÈüìŠÜ—1£‹¸!ÉcÇƒ}ÓöõX®ê6òÕ:lengthi:dependencies_digest"%tƒzµrÈPZ9YU¬?¨Œb›÷hK›Ë])0Ó«øÿ:idI"E87f04c83b92c02ae8b86527e4e00ab014700acb17b68b0a9176060476c52bf2c;F:
+mtimel+¦úW

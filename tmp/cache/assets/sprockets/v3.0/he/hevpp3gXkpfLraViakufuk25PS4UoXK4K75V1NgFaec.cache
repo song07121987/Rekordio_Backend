@@ -1,0 +1,40 @@
+{:uriI"Õfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/spec/specs.html?type=text/html&id=6a1851c1d5ac8190c5aa6385dcb6d24716440cd0c413e4a3bbd5ab96e51c13ee:ET:load_pathI"app/assets/assets;T:filenameI"<app/assets/assets/global/plugins/morris/spec/specs.html;T:	nameI"%global/plugins/morris/spec/specs;T:logical_pathI"*global/plugins/morris/spec/specs.html;T:content_typeI"text/html;T:sourceI"í<!doctype html>
+
+<head>
+    <meta charset="utf-8">
+    <title>morris.js tests</title>
+    <link rel="stylesheet" href="../bower_components/mocha/mocha.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../morris.css" type="text/css" media="screen" />
+    <!-- jQuery packaging changed for 2.1.0, so try to load both paths, one will work. -->
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/jquery/jquery.js"></script>
+    <script type="text/javascript" src="../bower_components/raphael/raphael-min.js"></script>
+</head>
+
+<body>
+    <div id="mocha"></div>
+    <script type="text/javascript" src="../bower_components/mocha/mocha.js"></script>
+    <script type="text/javascript" src="../bower_components/chai/chai.js"></script>
+    <script type="text/javascript" src="../bower_components/chai-jquery/chai-jquery.js"></script>
+    <script type="text/javascript" src="../bower_components/sinon/index.js"></script>
+    <script type="text/javascript" src="../bower_components/sinon-chai/lib/sinon-chai.js"></script>
+    <script>
+        mocha.setup('bdd');
+        should = chai.should();
+    </script>
+    <script type="text/javascript" src="../morris.js"></script>
+    <script type="text/javascript" src="../build/spec.js"></script>
+    <div id="test" style="width: 400px; height: 200px;"></div>
+    <script>
+        if (navigator.userAgent.indexOf('PhantomJS') < 0)
+        {
+            mocha.run();
+        }
+    </script>
+</body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"‰file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/spec/specs.html;TTF:charsetI"
+utf-8;F:digest"% †øºí„?È£Fj…æ›òª»W\[$?°Õ8:lengthií:dependencies_digest"%Ø_ÓæªÈö+Jcø²6ıÒ,íš¦§_JYœö|™:idI"E6a1851c1d5ac8190c5aa6385dcb6d24716440cd0c413e4a3bbd5ab96e51c13ee;F:
+mtimel+¦úW

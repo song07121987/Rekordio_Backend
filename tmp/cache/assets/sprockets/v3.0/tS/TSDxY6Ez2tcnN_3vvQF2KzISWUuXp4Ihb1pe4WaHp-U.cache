@@ -1,0 +1,84 @@
+{:uriI"÷file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amcharts/plugins/responsive/examples/radar.html?type=text/html&id=29fb1dd45edd3fb6579f53c02f98b777e74b1585d7291b2699af37b9b985d9dd:ET:load_pathI"app/assets/assets;T:filenameI"^app/assets/assets/global/plugins/amcharts/amcharts/plugins/responsive/examples/radar.html;T:	nameI"Gglobal/plugins/amcharts/amcharts/plugins/responsive/examples/radar;T:logical_pathI"Lglobal/plugins/amcharts/amcharts/plugins/responsive/examples/radar.html;T:content_typeI"text/html;T:sourceI"‚	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>amCharts Responsive Example</title>
+        <script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="http://www.amcharts.com/lib/3/radar.js"></script>
+        <script src="../responsive.min.js"></script>
+        <style>
+            body,
+            html {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            }
+        </style>
+        <script>
+            var chart = AmCharts.makeChart("chartdiv",
+            {
+                "type": "radar",
+                "dataProvider": [
+                {
+                    "country": "Czech Republic",
+                    "litres": 156.9
+                },
+                {
+                    "country": "Ireland",
+                    "litres": 131.1
+                },
+                {
+                    "country": "Germany",
+                    "litres": 115.8
+                },
+                {
+                    "country": "Australia",
+                    "litres": 109.9
+                },
+                {
+                    "country": "Austria",
+                    "litres": 108.3
+                },
+                {
+                    "country": "UK",
+                    "litres": 99
+                }],
+                "categoryField": "country",
+                "startDuration": 2,
+                "valueAxes": [
+                {
+                    "axisAlpha": 0.15,
+                    "minimum": 0,
+                    "dashLength": 3,
+                    "axisTitleOffset": 20,
+                    "gridCount": 5
+                }],
+                "graphs": [
+                {
+                    "valueField": "litres",
+                    "title": "Litres",
+                    "bullet": "round",
+                    "balloonText": "[[value]] litres of beer per year"
+                }],
+                "legend":
+                {},
+                "responsive":
+                {
+                    "enabled": true
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="chartdiv" style="width: 100%; height: 100%;"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"«file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amcharts/plugins/responsive/examples/radar.html;TTF:charsetI"
+utf-8;F:digest"%ÅCÀŸ5@ó•0Ô&'ÿ"ÃòìªiÓ„Z7vl–·­¶Ì:lengthi‚	:dependencies_digest"%ÄõHü2CK
+@â—“þ¸Ê•ƒá!8pÕP.x<¾–g†:idI"E29fb1dd45edd3fb6579f53c02f98b777e74b1585d7291b2699af37b9b985d9dd;F:
+mtimel+¦úW

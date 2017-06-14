@@ -1,0 +1,35 @@
+                            <div class="portlet light portlet-fit bordered">
+                                <div class="portlet-title">
+                                    <div class="caption">
+                                        <span class="caption-subject font-red sbold uppercase">Records</span>
+                                    </div>
+                                </div>
+                                <div class="portlet-body">
+                                    <table class="table table-striped table-hover table-bordered" id="sample_editable_1">
+                                        <thead>
+                                            <tr>
+                                                <th> No </th>
+                                                <th> Title </th>
+                                                <th> Created </th>
+                                                <th> User </th>
+                                                <th> Duration </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                        <% @records.each_with_index do |record, index| %>
+                                        
+                                            <tr>
+                                                <td> <%= index + 1 %> </td>
+                                                <td> <%= record[:title] %></td>
+                                                <td> <%= record[:created_time] %></td>
+                                                <td> <%= record[:user_name] %></td>
+                                                <td> <%= record[:duration] %></td>
+                                            </tr>
+                                    
+                                        <% end %>
+                                    
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>

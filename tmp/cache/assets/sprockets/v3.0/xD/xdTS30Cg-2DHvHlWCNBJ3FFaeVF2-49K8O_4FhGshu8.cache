@@ -1,0 +1,55 @@
+{:uriI"’file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/uk.json?type=application/json&id=9e1f6cff095ca87f824f0364f8eff3552a3eaaeffde6b514ab6024113361fc4b:ET:load_pathI"app/assets/assets;T:filenameI"5app/assets/assets/global/plugins/mapplic/uk.json;T:	nameI"global/plugins/mapplic/uk;T:logical_pathI"#global/plugins/mapplic/uk.json;T:content_typeI"application/json;T:sourceI"+{
+	"mapwidth":"690",
+	"mapheight":"982",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"uk",
+			"title":"United Kingdom",
+			"map":"maps/uk.svg",
+			"locations":[
+				{
+					"id": "manchester",
+					"title": "Manchester",
+					"description": "<p>Donec et pretium justo</p>",
+					"pin": "circular",
+					"x": "0.5698",
+					"y": "0.6071"
+				},
+				{
+					"id": "north-west",
+					"title": "North West",
+					"description": "It is the third most populated region after the South East and Greater London.",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.5395",
+					"y": "0.5749"
+				},
+				{
+					"id": "london",
+					"title": "Greater London",
+					"description": "<p>London is divided into the small City of London and the much wider Greater London.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7933",
+					"y": "0.8181"
+				},
+				{
+					"id": "south-east",
+					"title": "South East",
+					"description": "<p>Lorem ipsum.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7282",
+					"y": "0.8297"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Çfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/uk.json;TTF:charsetI"
+utf-8;F:digest"%Ÿ§©‚3æ"k©ù‚È1ïeéfb+êìo[üE}ómç:lengthi+:dependencies_digest"%F\aà1Ûç‚¨Ü˘®Î0:∞éêoµsK,}\»°«e™:idI"E9e1f6cff095ca87f824f0364f8eff3552a3eaaeffde6b514ab6024113361fc4b;F:
+mtimel+JÓW

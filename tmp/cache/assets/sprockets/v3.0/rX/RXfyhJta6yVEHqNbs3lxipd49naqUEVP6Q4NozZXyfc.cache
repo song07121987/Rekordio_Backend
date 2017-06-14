@@ -1,0 +1,26 @@
+{:uriI"
+file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/dataloader/examples/data/serial2.json?type=application/json&id=827be6e104f263848414a0da128367510d5088a7b5a3631feacbe8ec1ccce5a3:ET:load_pathI"app/assets/assets;T:filenameI"japp/assets/assets/global/plugins/amcharts/amstockcharts/plugins/dataloader/examples/data/serial2.json;T:	nameI"Sglobal/plugins/amcharts/amstockcharts/plugins/dataloader/examples/data/serial2;T:logical_pathI"Xglobal/plugins/amcharts/amstockcharts/plugins/dataloader/examples/data/serial2.json;T:content_typeI"application/json;T:sourceI">[{
+    "year": 2005,
+    "income": 23.5,
+    "expenses": 18.1
+}, {
+    "year": 2006,
+    "income": 26.2,
+    "expenses": 22.8
+}, {
+    "year": 2007,
+    "income": 30.1,
+    "expenses": 23.9
+}, {
+    "year": 2008,
+    "income": 29.5,
+    "expenses": 25.1
+}, {
+    "year": 2009,
+    "income": 24.6,
+    "expenses": 25
+}];T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"·file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/dataloader/examples/data/serial2.json;TTF:charsetI"
+utf-8;F:digest"%I.O*1oú&ÄX¤Ò¢¿Wˆ.2k[#.5Rën\X:lengthi>:dependencies_digest"%/oëÎYsk½\6½Í)	Ü—<ìLŒ&áó¤¡&Ü®aü:idI"E827be6e104f263848414a0da128367510d5088a7b5a3631feacbe8ec1ccce5a3;F:
+mtimel+BîW

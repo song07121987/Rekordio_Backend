@@ -1,0 +1,90 @@
+{:uriI"˚file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/pie1.html?type=text/html&id=4c79be6a92194d3450344ee7892e0e08ca53d6e04ab757cbfe396d07377afff8:ET:load_pathI"app/assets/assets;T:filenameI"bapp/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/pie1.html;T:	nameI"Kglobal/plugins/amcharts/amstockcharts/plugins/responsive/examples/pie1;T:logical_pathI"Pglobal/plugins/amcharts/amstockcharts/plugins/responsive/examples/pie1.html;T:content_typeI"text/html;T:sourceI"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>amCharts Responsive Example</title>
+        <script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="http://www.amcharts.com/lib/3/pie.js"></script>
+        <script src="../responsive.min.js"></script>
+        <style>
+            body,
+            html {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            }
+        </style>
+        <script>
+            AmCharts.makeChart("chartdiv",
+            {
+                "type": "pie",
+                "dataProvider": [
+                {
+                    "country": "Czech Republic",
+                    "litres": 156.9
+                },
+                {
+                    "country": "Ireland",
+                    "litres": 131.1
+                },
+                {
+                    "country": "Germany",
+                    "litres": 115.8
+                },
+                {
+                    "country": "Australia",
+                    "litres": 109.9
+                },
+                {
+                    "country": "Austria",
+                    "litres": 108.3
+                },
+                {
+                    "country": "UK",
+                    "litres": 65
+                },
+                {
+                    "country": "Belgium",
+                    "litres": 50
+                }],
+                "titleField": "country",
+                "valueField": "litres",
+                "balloonText": "[[title]]<br><span style='font-size:14px'><b>[[value]]</b> ([[percents]]%)</span>",
+                "innerRadius": "30%",
+                "legend":
+                {
+                    "align": "center",
+                    "markerType": "circle"
+                },
+                "responsive":
+                {
+                    "enabled": true,
+                    "addDefaultRules": true,
+                    "rules": [
+                    {
+                        "minWidth": 500,
+                        "overrides":
+                        {
+                            "innerRadius": "50%",
+                        }
+                    }]
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="chartdiv" style="width: 100%; height: 100%;"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Øfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/pie1.html;TTF:charsetI"
+utf-8;F:digest"%2¸¯·ÀB1èV^05knƒ~õ%ë:¨zíûØ{Q=∏:lengthi
+
+:dependencies_digest"%\%ﬂØ≥˘&≈k∂ DÄhFΩó9z∫@4zÑ÷7óôÃ‚:idI"E4c79be6a92194d3450344ee7892e0e08ca53d6e04ab757cbfe396d07377afff8;F:
+mtimel+®˙W

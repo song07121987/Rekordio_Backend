@@ -1,0 +1,41 @@
+{:uriI"èfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/decimal-custom-hover.html?type=text/html&id=5093781b68660653efb30d3ec69c3b8e1a6fd284e2ff47fbdfc6fcf567bed72d:ET:load_pathI"app/assets/assets;T:filenameI"Oapp/assets/assets/global/plugins/morris/examples/decimal-custom-hover.html;T:	nameI"8global/plugins/morris/examples/decimal-custom-hover;T:logical_pathI"=global/plugins/morris/examples/decimal-custom-hover.html;T:content_typeI"text/html;T:sourceI"Á<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Decimal Data</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+var decimal_data = [];
+for (var x = 0; x <= 360; x += 10) {
+  decimal_data.push({
+    x: x,
+    y: 1.5 + 1.5 * Math.sin(Math.PI * x / 180).toFixed(4)
+  });
+}
+window.m = Morris.Line({
+  element: 'graph',
+  data: decimal_data,
+  xkey: 'x',
+  ykeys: ['y'],
+  labels: ['sin(x)'],
+  parseTime: false,
+  hoverCallback: function (index, options, default_content, row) {
+    return default_content.replace("sin(x)", "1.5 + 1.5 sin(" + row.x + ")");
+  },
+  xLabelMargin: 10,
+  integerYLabels: true
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"œfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/decimal-custom-hover.html;TTF:charsetI"
+utf-8;F:digest"%ˆïTÖHbÍìª´»Pí¾g'ßí4bR!E½?Iø:lengthiÁ:dependencies_digest"%Ğ»ÅeÃ…:ÒóUˆæ’‰®nY!ı0®hÿ<ixü
+:idI"E5093781b68660653efb30d3ec69c3b8e1a6fd284e2ff47fbdfc6fcf567bed72d;F:
+mtimel+¦úW

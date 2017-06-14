@@ -1,0 +1,30 @@
+{:uriI"Âfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/bootstrap-markdown/package.json?type=application/json&id=ec60729b2fcd6294e65e29dd757284406425907a7c3f35fe1d0a2d0bfa164f7c:ET:load_pathI"app/assets/assets;T:filenameI"Eapp/assets/assets/global/plugins/bootstrap-markdown/package.json;T:	nameI".global/plugins/bootstrap-markdown/package;T:logical_pathI"3global/plugins/bootstrap-markdown/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "bootstrap-markdown",
+  "filename": "js/bootstrap-markdown.js",
+  "version": "2.9.0",
+  "description": "A bootstrap plugin for markdown editing",
+  "license" : "Apache-2.0",
+  "homepage": "https://github.com/toopay/bootstrap-markdown",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "markdown",
+    "editor"
+  ],
+  "maintainers": [{
+    "name": "Taufan Aditya",
+    "web": "https://github.com/toopay"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toopay/bootstrap-markdown.git"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ífile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/bootstrap-markdown/package.json;TTF:charsetI"
+utf-8;F:digest"%2§Zhk!Œ‚ˇ;õdﬂÊ4ƒ	\À$˛D¥8:lengthi:dependencies_digest"%
+	~K
+Ç;çB5ÀP}xÈ[«üŒ}µæ⁄«
+j‰:idI"Eec60729b2fcd6294e65e29dd757284406425907a7c3f35fe1d0a2d0bfa164f7c;F:
+mtimel+BÓW

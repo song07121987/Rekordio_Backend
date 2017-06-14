@@ -1,0 +1,53 @@
+{:uriI"›file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/elm/index.html?type=text/html&id=0712e25f85e13ed68ee975d7e23c515fa4f85f301a9aa06abb320f4678b208a5:ET:load_pathI"app/assets/assets;T:filenameI"Dapp/assets/assets/global/plugins/codemirror/mode/elm/index.html;T:	nameI"-global/plugins/codemirror/mode/elm/index;T:logical_pathI"2global/plugins/codemirror/mode/elm/index.html;T:content_typeI"text/html;T:sourceI"<!doctype html>
+<title>CodeMirror: Elm mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="elm.js"></script>
+<style type="text/css">
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Elm</a>
+    </ul>
+</div>
+<article>
+    <h2>Elm mode</h2>
+    <div>
+        <textarea id="code" name="code"> import Color exposing (..) import Graphics.Collage exposing (..) import Graphics.Element exposing (..) import Time exposing (..) main = Signal.map clock (every second) clock t = collage 400 400 [ filled lightGrey (ngon 12 110) , outlined (solid
+            grey) (ngon 12 110) , hand orange 100 t , hand charcoal 100 (t/60) , hand charcoal 60 (t/720) ] hand clr len time = let angle = degrees (90 - 6 * inSeconds time) in segment (0,0) (fromPolar (len,angle)) |> traced (solid clr) </textarea>
+    </div>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            lineNumbers: true,
+            mode: "text/x-elm"
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-elm</code>.</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ëfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/elm/index.html;TTF:charsetI"
+utf-8;F:digest"%˚äÓV1rh–sÆ“j‹;%"ÜkﬂÏ’ªG≥ïµù÷:lengthi:dependencies_digest"%Àcä¸<ÊÄË˜™Á#SÏ™H‰°(Àÿ&u∂¯‡ÆÕô∂:idI"E0712e25f85e13ed68ee975d7e23c515fa4f85f301a9aa06abb320f4678b208a5;F:
+mtimel+¶˙W

@@ -1,0 +1,45 @@
+{:uriI"ﬁfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/switzerland.json?type=application/json&id=84e30805ff478e95891828637badcebd4084d88599e12b306087172e668685ef:ET:load_pathI"app/assets/assets;T:filenameI">app/assets/assets/global/plugins/mapplic/switzerland.json;T:	nameI"'global/plugins/mapplic/switzerland;T:logical_pathI",global/plugins/mapplic/switzerland.json;T:content_typeI"application/json;T:sourceI"%{
+	"mapwidth":"640",
+	"mapheight":"420",
+	"categories":[],
+	"levels":[
+		{
+			"id":"switzerland",
+			"title":"Switzerland",
+			"map":"maps/switzerland.svg",
+			"minimap": "maps/switzerland-mini.jpg",
+			"locations":[
+				{
+					"id": "zurich",
+					"title": "Zurich",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "circular",
+					"x": "0.5771",
+					"y": "0.1869"
+				},
+				{
+					"id": "BE",
+					"title": "Canton of Bern",
+					"description": "<p>Canton of Bern</p>",
+					"fill": "#4d5e6d",
+					"pin": "hidden",
+					"x": "0.3695",
+					"y": "0.4881"
+				},
+				{
+					"id": "SZ",
+					"title": "Schwyz",
+					"description": "<p>Canton of Schwyz</p>",
+					"fill": "#4d5e6d",
+					"pin": "hidden",
+					"x": "0.6089",
+					"y": "0.3897"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ãfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/switzerland.json;TTF:charsetI"
+utf-8;F:digest"%æ0⁄!Öπ„}jWmI∞B}ù˜∑ÉjÛïG¬€G≤:lengthi%:dependencies_digest"%“ED:ö‘à}KeQÂ¸∆èH°7rÍ[Cæ®˙À+.:idI"E84e30805ff478e95891828637badcebd4084d88599e12b306087172e668685ef;F:
+mtimel+JÓW

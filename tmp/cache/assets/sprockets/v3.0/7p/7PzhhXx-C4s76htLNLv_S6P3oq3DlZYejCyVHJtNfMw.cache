@@ -1,0 +1,56 @@
+{:uriI"⁄file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/germany.json?type=application/json&id=f7832f1752b317a0ff3487002fda58b33f04ffae5d764b4fbf6182fb684b2894:ET:load_pathI"app/assets/assets;T:filenameI":app/assets/assets/global/plugins/mapplic/germany.json;T:	nameI"#global/plugins/mapplic/germany;T:logical_pathI"(global/plugins/mapplic/germany.json;T:content_typeI"application/json;T:sourceI"{
+	"mapwidth":"600",
+	"mapheight":"800",
+	"categories":[
+
+	],
+	"levels":[
+		{
+			"id":"germany",
+			"title":"Germany",
+			"map":"maps/germany.svg",
+			"minimap": "maps/germany-mini.jpg",
+			"locations":[
+				{
+					"id": "leipzig",
+					"title": "Leipzig",
+					"description": "<p>Leipzig.</p>",
+					"pin": "circular",
+					"x": "0.7016",
+					"y": "0.4714"
+				},
+				{
+					"id": "de-by",
+					"title": "Bayern",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.6444",
+					"y": "0.7786"
+				},
+				{
+					"id": "de-hb",
+					"title": "Hamburg",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.3266",
+					"y": "0.2502"
+				},
+				{
+					"id": "de-ni",
+					"title": "Niedersachsen",
+					"description": "<p>Donec et pretium justo, sodales finibus risus.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.4049",
+					"y": "0.2675"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"áfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/germany.json;TTF:charsetI"
+utf-8;F:digest"%v)ñ´Ü≈ú≤)Úòº2-3◊'ê≤»|@{ÛÌ‚Á≠‡M`:lengthi:dependencies_digest"%xjq6õrL⁄üôØfOkë*=,	e≥y0XQÔï:idI"Ef7832f1752b317a0ff3487002fda58b33f04ffae5d764b4fbf6182fb684b2894;F:
+mtimel+JÓW

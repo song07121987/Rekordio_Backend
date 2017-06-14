@@ -1,0 +1,45 @@
+{:uriI"Ÿfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/brazil.json?type=application/json&id=12dcb699c7fdb7b1ab0bf96ffb01f9ff1512eba609e57f0524c62dc8c577581c:ET:load_pathI"app/assets/assets;T:filenameI"9app/assets/assets/global/plugins/mapplic/brazil.json;T:	nameI""global/plugins/mapplic/brazil;T:logical_pathI"'global/plugins/mapplic/brazil.json;T:content_typeI"application/json;T:sourceI"n{
+	"mapwidth":"800",
+	"mapheight":"800",
+	"categories":[],
+	"levels":[
+		{
+			"id":"brazil",
+			"title":"Brazil",
+			"map":"maps/brazil.svg",
+			"minimap": "maps/brazil-mini.jpg",
+			"locations":[
+				{
+					"id": "br-ba",
+					"title": "Bahia",
+					"description": "<p>Bahia's capital is the city of Salvador.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.8089",
+					"y": "0.4517"
+				},
+				{
+					"id": "br-rs",
+					"title": "Rio Grande do Sul",
+					"description": "<p>The capital and largest city is Porto Alegre.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.5316",
+					"y": "0.8693"
+				},
+				{
+					"id": "sao-paulo",
+					"title": "S√£o Paulo",
+					"description": "It is the major industrial and economic powerhouse of the Brazilian economy.",
+					"pin": "circular",
+					"x": "0.6883",
+					"y": "0.7236"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Üfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/brazil.json;TTF:charsetI"
+utf-8;F:digest"%}±GSïUÍO#ãÜhËeyr0æÉ7@ùïˆ»bd%:lengthin:dependencies_digest"%)ÎÓFëXõê.v'¬≈|„õ§öÎ€üS_z‘‰:idI"E12dcb699c7fdb7b1ab0bf96ffb01f9ff1512eba609e57f0524c62dc8c577581c;F:
+mtimel+JÓW

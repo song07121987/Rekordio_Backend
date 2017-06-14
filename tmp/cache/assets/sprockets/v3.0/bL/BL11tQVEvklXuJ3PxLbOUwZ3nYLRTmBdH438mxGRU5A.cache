@@ -1,0 +1,64 @@
+{:uriI"ﬂfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/asn.1/index.html?type=text/html&id=6440a7994e63ecf67dd5cf88dd4fcb81baebd238e3b29af9736d806812139479:ET:load_pathI"app/assets/assets;T:filenameI"Fapp/assets/assets/global/plugins/codemirror/mode/asn.1/index.html;T:	nameI"/global/plugins/codemirror/mode/asn.1/index;T:logical_pathI"4global/plugins/codemirror/mode/asn.1/index.html;T:content_typeI"text/html;T:sourceI"¬<!doctype html>
+<title>CodeMirror: ASN.1 mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="asn.1.js"></script>
+<style type="text/css">
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png"> </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="http://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One">ASN.1</a>
+    </ul>
+</div>
+<article>
+    <h2>ASN.1 example</h2>
+    <div>
+        <textarea id="ttcn-asn-code"> -- -- Sample ASN.1 Code -- MyModule DEFINITIONS ::= BEGIN MyTypes ::= SEQUENCE { myObjectId OBJECT IDENTIFIER, mySeqOf SEQUENCE OF MyInt, myBitString BIT STRING { muxToken(0), modemToken(1) } } MyInt ::= INTEGER (0..65535) END </textarea>
+    </div>
+    <script>
+        var ttcnEditor = CodeMirror.fromTextArea(document.getElementById("ttcn-asn-code"),
+        {
+            lineNumbers: true,
+            matchBrackets: true,
+            mode: "text/x-ttcn-asn"
+        });
+        ttcnEditor.setSize(400, 400);
+        var mac = CodeMirror.keyMap.default == CodeMirror.keyMap.macDefault;
+        CodeMirror.keyMap.default[(mac ? "Cmd" : "Ctrl") + "-Space"] = "autocomplete";
+    </script>
+    <br/>
+    <p>
+        <strong>Language:</strong> Abstract Syntax Notation One (
+        <a href="http://www.itu.int/en/ITU-T/asn1/Pages/introduction.aspx">ASN.1</a>) </p>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-ttcn-asn</code></p>
+    <br/>
+    <p>The development of this mode has been sponsored by
+        <a href="http://www.ericsson.com/">Ericsson </a>.</p>
+    <p>Coded by Asmelash Tsegay Gebretsadkan </p>
+</article>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ìfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/asn.1/index.html;TTF:charsetI"
+utf-8;F:digest"%aˆ÷"i;€~^ûJµ˝Ã¶)@ãøBn›)X3Ç›õ:lengthi¬:dependencies_digest"%Ö¥†_]úÄf±~\_€€LO˘+ı≥Ωè»ZÄˆR:‘©f:idI"E6440a7994e63ecf67dd5cf88dd4fcb81baebd238e3b29af9736d806812139479;F:
+mtimel+¶˙W

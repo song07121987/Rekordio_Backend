@@ -1,0 +1,53 @@
+{:uriI"ßfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/icheck/icheck.jquery.json?type=application/json&id=c20831791ccedaa6ae6c377534f6550dbd5fd6b505c997a7a7d12822f0ed665d:ET:load_pathI"app/assets/assets;T:filenameI"?app/assets/assets/global/plugins/icheck/icheck.jquery.json;T:	nameI"(global/plugins/icheck/icheck.jquery;T:logical_pathI"-global/plugins/icheck/icheck.jquery.json;T:content_typeI"application/json;T:sourceI"{{
+  "name": "icheck",
+  "version": "1.0.2",
+  "title": "iCheck",
+  "author": {
+    "name": "Damir Sultanov",
+    "email": "info@fronteed.com",
+    "homepage": "http://fronteed.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "description": "Highly customizable checkboxes and radio buttons (jQuery and Zepto). Features: identical inputs across different browsers and devices (both desktop and mobile), touch devices support (iOS, Android, BlackBerry, Windows Phone, Amazon Kindle), keyboard accessible inputs (Tab, Spacebar, Arrow up/down and other shortcuts), screenreader accessible inputs â€” (ARIA attributes for VoiceOver and others), customization freedom (use any HTML and CSS to style inputs or try 6 Retina-ready skins), lightweight size (1 kb gzipped). Provides 32 options to customize checkboxes and radio buttons, 11 callbacks to handle changes, 9 methods to make changes programmatically. Saves changes to original inputs, works carefully with any selectors.",
+  "keywords": [
+    "checkbox",
+    "radio",
+    "input",
+    "field",
+    "form",
+    "desktop",
+    "mobile",
+    "custom",
+    "replacement",
+    "accessibility",
+    "skins",
+    "ui",
+    "checked",
+    "disabled",
+    "indeterminate",
+    "css3",
+    "html5",
+    "tiny",
+    "lightweight",
+    "jquery",
+    "zepto"
+  ],
+  "homepage": "http://fronteed.com/iCheck/",
+  "docs": "https://github.com/fronteed/iCheck",
+  "demo": "http://fronteed.com/iCheck/",
+  "download": "http://fronteed.com/iCheck/",
+  "bugs": "https://github.com/fronteed/iCheck/issues/"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Œfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/icheck/icheck.jquery.json;TTF:charsetI"
+utf-8;F:digest"%U4×È±â¨Úž$ñ¸ÂjwÌr+_¹‹˜ÔI¨G¡»ÍÌ:lengthi{:dependencies_digest"%3cÉ1 lU.i‘Mg-ûyHb@Ž®Ü‹Ú¹ìl>:idI"Ec20831791ccedaa6ae6c377534f6550dbd5fd6b505c997a7a7d12822f0ed665d;F:
+mtimel+HîW

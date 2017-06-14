@@ -1,0 +1,33 @@
+{:uriI"◊file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/dst.html?type=text/html&id=49d95e8437c8f62c08a02994b5a681aa199185edaa463755a52e438a7f8b4580:ET:load_pathI"app/assets/assets;T:filenameI">app/assets/assets/global/plugins/morris/examples/dst.html;T:	nameI"'global/plugins/morris/examples/dst;T:logical_pathI",global/plugins/morris/examples/dst.html;T:content_typeI"text/html;T:sourceI""<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Daylight-savings time</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// This crosses a DST boundary in the UK.
+Morris.Area({
+  element: 'graph',
+  data: [
+    {x: '2013-03-30 22:00:00', y: 3, z: 3},
+    {x: '2013-03-31 00:00:00', y: 2, z: 0},
+    {x: '2013-03-31 02:00:00', y: 0, z: 2},
+    {x: '2013-03-31 04:00:00', y: 4, z: 4}
+  ],
+  xkey: 'x',
+  ykeys: ['y', 'z'],
+  labels: ['Y', 'Z']
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ãfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/dst.html;TTF:charsetI"
+utf-8;F:digest"%4∏x\9Ì%p*e[êﬁ¯FBÄΩ]\Óhxt!]Ñ:lengthi":dependencies_digest"%æIø“∂G4LE‡˝ß^"sqt¡ﬂº;ò†W≠ÿP:idI"E49d95e8437c8f62c08a02994b5a681aa199185edaa463755a52e438a7f8b4580;F:
+mtimel+¶˙W

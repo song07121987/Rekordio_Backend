@@ -1,0 +1,57 @@
+{:uriI"ﬂfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/swift/index.html?type=text/html&id=171595251ceaedc7e31145fac78a9b8ffeb6b1af4972e2d51f8033127144a6c5:ET:load_pathI"app/assets/assets;T:filenameI"Fapp/assets/assets/global/plugins/codemirror/mode/swift/index.html;T:	nameI"/global/plugins/codemirror/mode/swift/index;T:logical_pathI"4global/plugins/codemirror/mode/swift/index.html;T:content_typeI"text/html;T:sourceI"∏<!doctype html>
+<title>CodeMirror: Swift mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="../../addon/edit/matchbrackets.js"></script>
+<script src="./swift.js"></script>
+<style>
+    .CodeMirror {
+        border: 2px inset #dee;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Swift</a>
+    </ul>
+</div>
+<article>
+    <h2>Swift mode</h2>
+    <form>
+        <textarea id="code" name="code"> // // TipCalculatorModel.swift // TipCalculator // // Created by Main Account on 12/18/14. // Copyright (c) 2014 Razeware LLC. All rights reserved. // import Foundation class TipCalculatorModel { var total: Double var taxPct: Double var subtotal:
+            Double { get { return total / (taxPct + 1) } } init(total: Double, taxPct: Double) { self.total = total self.taxPct = taxPct } func calcTipWithTipPct(tipPct: Double) -> Double { return subtotal * tipPct } func returnPossibleTips() -> [Int:
+            Double] { let possibleTipsInferred = [0.15, 0.18, 0.20] let possibleTipsExplicit:[Double] = [0.15, 0.18, 0.20] var retval = [Int: Double]() for possibleTip in possibleTipsInferred { let intPct = Int(possibleTip*100) retval[intPct] = calcTipWithTipPct(possibleTip)
+            } return retval } } </textarea>
+    </form>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            lineNumbers: true,
+            matchBrackets: true,
+            mode: "text/x-swift"
+        });
+    </script>
+    <p>A simple mode for Swift</p>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-swift</code> (Swift code)</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ìfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/swift/index.html;TTF:charsetI"
+utf-8;F:digest"%yä-oΩÔ√œhÎ9¿`⁄V˘ÿ9Ö¸˜e¬ŸAPá‰:lengthi∏:dependencies_digest"%À·≤õYh€G%fÏ¥éç£Úÿ%ŸÂˆA¿âæR:idI"E171595251ceaedc7e31145fac78a9b8ffeb6b1af4972e2d51f8033127144a6c5;F:
+mtimel+¶˙W

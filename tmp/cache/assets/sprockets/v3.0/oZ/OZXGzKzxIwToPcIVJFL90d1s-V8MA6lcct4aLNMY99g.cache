@@ -1,0 +1,45 @@
+{:uriI"ÿfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/china.json?type=application/json&id=bb74680f2f517c53cf1a2feaa70c27231ef4702fd0c2a7399dffa7e1e2fe2610:ET:load_pathI"app/assets/assets;T:filenameI"8app/assets/assets/global/plugins/mapplic/china.json;T:	nameI"!global/plugins/mapplic/china;T:logical_pathI"&global/plugins/mapplic/china.json;T:content_typeI"application/json;T:sourceI"ê{
+	"mapwidth":"860",
+	"mapheight":"700",
+	"categories":[],
+	"levels":[
+		{
+			"id":"china",
+			"title":"China",
+			"map":"maps/china.svg",
+			"minimap": "maps/china-mini.jpg",
+			"locations":[
+				{
+					"id": "XZ",
+					"title": "Tibet (Ë•øËóè)",
+					"description": "<p>Within China, Tibet is identified as an Autonomous Region.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.2265",
+					"y": "0.5905"
+				},
+				{
+					"id": "SD",
+					"title": "Shandong (Â±±Êù±)",
+					"description": "<p>Shandong has played a major role in Chinese history from the beginning of Chinese civilization.</p>",
+					"pin": "hidden",
+					"fill": "#4d5e6d",
+					"x": "0.7602",
+					"y": "0.4909"
+				},
+				{
+					"id": "guangzhou",
+					"title": "Guangzhou",
+					"description": "Guangzhou is the third largest Chinese city.",
+					"pin": "circular",
+					"x": "0.6989",
+					"y": "0.8536"
+				}
+			]
+		}
+	]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Öfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/mapplic/china.json;TTF:charsetI"
+utf-8;F:digest"%(kÂ5± |ôO,bò0cŸø0ÏÌä˛ÏE»÷Í·—:lengthiê:dependencies_digest"%)i-Û…JˇÜ»ƒ§±&é÷Éux˝€ÈçÂŸt@ÚÑrUu:idI"Ebb74680f2f517c53cf1a2feaa70c27231ef4702fd0c2a7399dffa7e1e2fe2610;F:
+mtimel+JÓW

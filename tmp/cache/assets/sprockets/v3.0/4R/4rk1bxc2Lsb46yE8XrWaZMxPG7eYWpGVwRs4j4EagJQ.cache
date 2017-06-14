@@ -1,0 +1,32 @@
+{:uriI"Âfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/bootstrap-table/data/data4.json?type=application/json&id=e9c425496b9d06ff9f976b8973132a78838d442920f6593198d177c4d0d34528:ET:load_pathI"app/assets/assets;T:filenameI"Eapp/assets/assets/global/plugins/bootstrap-table/data/data4.json;T:	nameI".global/plugins/bootstrap-table/data/data4;T:logical_pathI"3global/plugins/bootstrap-table/data/data4.json;T:content_typeI"application/json;T:sourceI"˝{
+    "repos": [
+        {
+            "name": "Multiple Select",
+            "license": "The MIT License",
+            "description": "A jQuery plugin to select multiple elements with checkboxes :)",
+            "url": "<a href='https://github.com/wenzhixin/multiple-select'>https://github.com/wenzhixin/multiple-select</a>"
+        },
+        {
+            "name": "Bootstrap Table",
+            "license": "The MIT License",
+            "description": "Bootstrap table displays data in a tabular format and offers rich support to radio, checkbox, sort, pagination and so on. ",
+            "url": "<a href='https://github.com/wenzhixin/bootstrap-table'>https://github.com/wenzhixin/bootstrap-table</a>"
+        },
+        {
+            "name": "Bootstrap Show Password",
+            "license": "The MIT License",
+            "description": "Show/hide password plugin for bootstrap.",
+            "url": "<a href='https://github.com/wenzhixin/bootstrap-show-password'>https://github.com/wenzhixin/bootstrap-show-password</a>"
+        },
+        {
+            "name": "Blog",
+            "license": "The MIT License",
+            "description": "My blog",
+            "url": "<a href='https://github.com/wenzhixin/blog'>https://github.com/wenzhixin/blog</a>"
+        }
+    ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ífile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/bootstrap-table/data/data4.json;TTF:charsetI"
+utf-8;F:digest"%Â8Y¬ùÑ1‡\õ"”<;«ƒÑ»ÿﬁ‘8\¿_äûK/:lengthi˝:dependencies_digest"%6EªHH”a?ƒ§ü·òÊÂ¥¡)¿¬’ íG@™Ã§ÊØT:idI"Ee9c425496b9d06ff9f976b8973132a78838d442920f6593198d177c4d0d34528;F:
+mtimel+DÓW

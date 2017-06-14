@@ -1,0 +1,31 @@
+{:uriI"âfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-file-upload/cors/result.html?type=text/html&id=a2b63281d9bb76641dba09b8d69c7ffcf2edcc96081c55e2d8124329ec4d6cbc:ET:load_pathI"app/assets/assets;T:filenameI"Iapp/assets/assets/global/plugins/jquery-file-upload/cors/result.html;T:	nameI"2global/plugins/jquery-file-upload/cors/result;T:logical_pathI"7global/plugins/jquery-file-upload/cors/result.html;T:content_typeI"text/html;T:sourceI"U<!DOCTYPE HTML>
+<!--
+/*
+ * jQuery Iframe Transport Plugin Redirect Page
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2010, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+-->
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>jQuery Iframe Transport Plugin Redirect Page</title>
+    </head>
+
+    <body>
+        <script>
+            document.body.innerText = document.body.textContent = decodeURIComponent(window.location.search.slice(1));
+        </script>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"–file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-file-upload/cors/result.html;TTF:charsetI"
+utf-8;F:digest"%FÇÕœ©S5ÀøØw[MÁæ6]]­ì4=—Ý4Ô©…:lengthiU:dependencies_digest"%š‚ÉU/š€ÑÃÑ¸ÙÌ7ˆ9S¿±«ªô˜ë|¥ÿÖ:idI"Ea2b63281d9bb76641dba09b8d69c7ffcf2edcc96081c55e2d8124329ec4d6cbc;F:
+mtimel+¤úW

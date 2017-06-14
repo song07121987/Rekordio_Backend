@@ -1,0 +1,33 @@
+{:uriI"Öfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jqvmap/samples/usa.html?type=text/html&id=3b63edda05815b06dd6834e0ea7d3895ab0df1072de5f363efe66b0bb06850f2:ET:load_pathI"app/assets/assets;T:filenameI"=app/assets/assets/global/plugins/jqvmap/samples/usa.html;T:	nameI"&global/plugins/jqvmap/samples/usa;T:logical_pathI"+global/plugins/jqvmap/samples/usa.html;T:content_typeI"text/html;T:sourceI"i<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+    <head>
+        <title>JQVMap - USA Map</title>
+        <link href="../jqvmap/jqvmap.css" media="screen" rel="stylesheet" type="text/css" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="../jqvmap/jquery.vmap.js" type="text/javascript"></script>
+        <script src="../jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function()
+            {
+                jQuery('#vmap').vectorMap(
+                {
+                    map: 'usa_en',
+                    enableZoom: true,
+                    showTooltip: true,
+                    selectedRegion: 'MO'
+                });
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="vmap" style="width: 600px; height: 400px;"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Šfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jqvmap/samples/usa.html;TTF:charsetI"
+utf-8;F:digest"%¹m¤û“\8Mm0Œqòõƒ÷,#§ÕÛA¾käŽ:lengthii:dependencies_digest"%ê”¡±^P›GXŽ«zá°©ÄÝ$¤Žo/X¥mRrSf:idI"E3b63edda05815b06dd6834e0ea7d3895ab0df1072de5f363efe66b0bb06850f2;F:
+mtimel+¤úW

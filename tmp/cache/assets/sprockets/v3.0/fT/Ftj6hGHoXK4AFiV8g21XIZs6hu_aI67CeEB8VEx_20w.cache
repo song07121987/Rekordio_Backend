@@ -1,0 +1,30 @@
+{:uriI"ãfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/donut-formatter.html?type=text/html&id=7d67b949025e4fb631c17758d1c171bfac1b0ca4516af213de6708d3ec3b0f1e:ET:load_pathI"app/assets/assets;T:filenameI"Japp/assets/assets/global/plugins/morris/examples/donut-formatter.html;T:	nameI"3global/plugins/morris/examples/donut-formatter;T:logical_pathI"8global/plugins/morris/examples/donut-formatter.html;T:content_typeI"text/html;T:sourceI"A<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Donut Chart</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+Morris.Donut({
+  element: 'graph',
+  data: [
+    {value: 70, label: 'foo', formatted: 'at least 70%' },
+    {value: 15, label: 'bar', formatted: 'approx. 15%' },
+    {value: 10, label: 'baz', formatted: 'approx. 10%' },
+    {value: 5, label: 'A really really long label', formatted: 'at most 5%' }
+  ],
+  formatter: function (x, data) { return data.formatted; }
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"—file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/donut-formatter.html;TTF:charsetI"
+utf-8;F:digest"%ò«c^İUCÜÛ0Bqq‚~ÿòC¶{¦Ùæ4:lengthiA:dependencies_digest"%³ëH@ü‰Ö:òá˜ûL¯±nüuøŒ„ÿÕt–W:idI"E7d67b949025e4fb631c17758d1c171bfac1b0ca4516af213de6708d3ec3b0f1e;F:
+mtimel+¦úW

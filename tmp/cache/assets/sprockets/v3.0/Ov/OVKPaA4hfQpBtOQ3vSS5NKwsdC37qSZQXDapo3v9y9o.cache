@@ -1,0 +1,45 @@
+{:uriI"„file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/countdown/plugin/countdownBasic.html?type=text/html&id=c2bd52c31aab170e4c9f1b013d69254cee9088261a914576573c22ae83a45ae5:ET:load_pathI"app/assets/assets;T:filenameI"Japp/assets/assets/global/plugins/countdown/plugin/countdownBasic.html;T:	nameI"3global/plugins/countdown/plugin/countdownBasic;T:logical_pathI"8global/plugins/countdown/plugin/countdownBasic.html;T:content_typeI"text/html;T:sourceI"x<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>jQuery Countdown</title>
+        <link rel="stylesheet" href="jquery.countdown.css">
+        <style type="text/css">
+            #defaultCountdown {
+                width: 240px;
+                height: 45px;
+            }
+        </style>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script type="text/javascript" src="jquery.countdown.js"></script>
+        <script type="text/javascript">
+            $(function()
+            {
+                var austDay = new Date();
+                austDay = new Date(austDay.getFullYear() + 1, 1 - 1, 26);
+                $('#defaultCountdown').countdown(
+                {
+                    until: austDay
+                });
+                $('#year').text(austDay.getFullYear());
+            });
+        </script>
+    </head>
+
+    <body>
+        <h1>jQuery Countdown Basics</h1>
+        <p>This page demonstrates the very basics of the
+            <a href="http://keith-wood.name/countdown.html">jQuery Countdown plugin</a>. It contains the minimum requirements for using the plugin and can be used as the basis for your own experimentation.</p>
+        <p>For more detail see the
+            <a href="http://keith-wood.name/countdownRef.html">documentation reference</a> page.</p>
+        <p>Counting down to 26 January
+            <span id="year">2010</span>.</p>
+        <div id="defaultCountdown"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ófile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/countdown/plugin/countdownBasic.html;TTF:charsetI"
+utf-8;F:digest"%keæ√ı:»¥LêÆ€Æf;Wª’wß_ÉE·©o&:lengthix:dependencies_digest"%#√béL5	Kï_[p”ûµÂﬁı$≠8ÚΩ;Œ£≤¿¢:idI"Ec2bd52c31aab170e4c9f1b013d69254cee9088261a914576573c22ae83a45ae5;F:
+mtimel+§˙W

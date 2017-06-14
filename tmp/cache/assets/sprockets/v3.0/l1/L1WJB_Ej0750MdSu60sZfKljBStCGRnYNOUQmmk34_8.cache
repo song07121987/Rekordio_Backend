@@ -1,0 +1,55 @@
+{:uriI"Âfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/mathematica/index.html?type=text/html&id=bf3ef29a49a3599b5b9f72cfe8dac51f21635ea0b646cc6e6d8fb70630ab3755:ET:load_pathI"app/assets/assets;T:filenameI"Lapp/assets/assets/global/plugins/codemirror/mode/mathematica/index.html;T:	nameI"5global/plugins/codemirror/mode/mathematica/index;T:logical_pathI":global/plugins/codemirror/mode/mathematica/index.html;T:content_typeI"text/html;T:sourceI"K	<!doctype html>
+<title>CodeMirror: Mathematica mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel=stylesheet href=../../lib/codemirror.css>
+<script src=../../lib/codemirror.js></script>
+<script src=../../addon/edit/matchbrackets.js></script>
+<script src=mathematica.js></script>
+<style type=text/css>
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Mathematica</a>
+    </ul>
+</div>
+<article>
+    <h2>Mathematica mode</h2>
+    <textarea id="mathematicaCode"> (* example Mathematica code *) (* Dualisiert wird anhand einer Polarit√§t an einer Quadrik $x^t Q x = 0$ mit regul√§rer Matrix $Q$ (also mit $det(Q) \neq 0$), z.B. die Identit√§tsmatrix. $p$ ist eine Liste von Polynomen - ein Ideal. *) dualize::"singular"
+        = "Q must be regular: found Det[Q]==0."; dualize[ Q_, p_ ] := Block[ { m, n, xv, lv, uv, vars, polys, dual }, If[Det[Q] == 0, Message[dualize::"singular"], m = Length[p]; n = Length[Q] - 1; xv = Table[Subscript[x, i], {i, 0, n}]; lv = Table[Subscript[l,
+        i], {i, 1, m}]; uv = Table[Subscript[u, i], {i, 0, n}]; (* Konstruiere Ideal polys. *) If[m == 0, polys = Q.uv, polys = Join[p, Q.uv - Transpose[Outer[D, p, xv]].lv] ]; (* Eliminiere die ersten n + 1 + m Variablen xv und lv aus dem Ideal polys.
+        *) vars = Join[xv, lv]; dual = GroebnerBasis[polys, uv, vars]; (* Ersetze u mit x im Ergebnis. *) ReplaceAll[dual, Rule[u, x]] ] ] </textarea>
+    <script>
+        var mathematicaEditor = CodeMirror.fromTextArea(document.getElementById('mathematicaCode'),
+        {
+            mode: 'text/x-mathematica',
+            lineNumbers: true,
+            matchBrackets: true
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-mathematica</code> (Mathematica).</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ôfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/mathematica/index.html;TTF:charsetI"
+utf-8;F:digest"%π®¯˛¸€Ç›È◊F∆Ë™ÙÓÉ¶ÌWßm„QT6:lengthiK	:dependencies_digest"%◊∂‰{Ì›a\„ﬂÑ%AÕÏˇ˛Ω#G'∑Å¬Ë'5·:idI"Ebf3ef29a49a3599b5b9f72cfe8dac51f21635ea0b646cc6e6d8fb70630ab3755;F:
+mtimel+¶˙W

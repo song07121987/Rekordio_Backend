@@ -1,0 +1,56 @@
+{:uriI"ﬁfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/solr/index.html?type=text/html&id=cee9b6ebc487dff5e0239aa46812ee4453dcfaa161234dc55820c47dc49c8708:ET:load_pathI"app/assets/assets;T:filenameI"Eapp/assets/assets/global/plugins/codemirror/mode/solr/index.html;T:	nameI".global/plugins/codemirror/mode/solr/index;T:logical_pathI"3global/plugins/codemirror/mode/solr/index.html;T:content_typeI"text/html;T:sourceI"-<!doctype html>
+<title>CodeMirror: Solr mode</title>
+<meta charset="utf-8" />
+<link rel=stylesheet href="../../doc/docs.css">
+<link rel="stylesheet" href="../../lib/codemirror.css">
+<script src="../../lib/codemirror.js"></script>
+<script src="solr.js"></script>
+<style type="text/css">
+    .CodeMirror {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+    
+    .CodeMirror .cm-operator {
+        color: orange;
+    }
+</style>
+<div id=nav>
+    <a href="http://codemirror.net">
+        <h1>CodeMirror</h1>
+        <img id=logo src="../../doc/logo.png">
+    </a>
+    <ul>
+        <li>
+            <a href="../../index.html">Home</a>
+            <li>
+                <a href="../../doc/manual.html">Manual</a>
+                <li>
+                    <a href="https://github.com/codemirror/codemirror">Code</a>
+    </ul>
+    <ul>
+        <li>
+            <a href="../index.html">Language modes</a>
+            <li>
+                <a class=active href="#">Solr</a>
+    </ul>
+</div>
+<article>
+    <h2>Solr mode</h2>
+    <div>
+        <textarea id="code" name="code">author:Camus title:"The Rebel" and author:Camus philosophy:Existentialism -author:Kierkegaard hardToSpell:Dostoevsky~ published:[194* TO 1960] and author:(Sartre or "Simone de Beauvoir")</textarea>
+    </div>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById("code"),
+        {
+            mode: 'solr',
+            lineNumbers: true
+        });
+    </script>
+    <p>
+        <strong>MIME types defined:</strong> <code>text/x-solr</code>.</p>
+</article>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ífile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/codemirror/mode/solr/index.html;TTF:charsetI"
+utf-8;F:digest"%‚O¯©∏Rìnw€«ÂfFHk¬Ü^´Çèè„\T/ˇW¿:lengthi-:dependencies_digest"%ﬁy_á‚ç`ÓÈ8lî∫k˝Q,àæ{$lF»ûµZèo:idI"Ecee9b6ebc487dff5e0239aa46812ee4453dcfaa161234dc55820c47dc49c8708;F:
+mtimel+¶˙W

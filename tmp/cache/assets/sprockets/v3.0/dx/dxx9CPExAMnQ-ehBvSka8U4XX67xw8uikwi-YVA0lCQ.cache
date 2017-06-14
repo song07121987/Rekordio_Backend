@@ -1,0 +1,34 @@
+{:uriI"àfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/area-as-line.html?type=text/html&id=e62384301f719af56cc203c245920d14aaad321cd2395efb83d970217675d741:ET:load_pathI"app/assets/assets;T:filenameI"Gapp/assets/assets/global/plugins/morris/examples/area-as-line.html;T:	nameI"0global/plugins/morris/examples/area-as-line;T:logical_pathI"5global/plugins/morris/examples/area-as-line.html;T:content_typeI"text/html;T:sourceI"<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Area charts behaving like line charts</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// Use Morris.Area instead of Morris.Line
+Morris.Area({
+  element: 'graph',
+  behaveLikeLine: true,
+  data: [
+    {x: '2011 Q1', y: 3, z: 3},
+    {x: '2011 Q2', y: 2, z: 1},
+    {x: '2011 Q3', y: 2, z: 4},
+    {x: '2011 Q4', y: 3, z: 3}
+  ],
+  xkey: 'x',
+  ykeys: ['y', 'z'],
+  labels: ['Y', 'Z']
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"”file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/area-as-line.html;TTF:charsetI"
+utf-8;F:digest"%aji›-~¥ :İWÂîÍ~ä4„cnü$	¢mŠ€†W>:lengthi:dependencies_digest"%îœ!å2áB\ÄUjğŞ.&ÿã‘i«Ş¥u¾¥2kDcy:idI"Ee62384301f719af56cc203c245920d14aaad321cd2395efb83d970217675d741;F:
+mtimel+¦úW

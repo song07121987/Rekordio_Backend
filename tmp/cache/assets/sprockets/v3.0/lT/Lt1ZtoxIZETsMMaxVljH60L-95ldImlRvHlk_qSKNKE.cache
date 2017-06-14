@@ -1,0 +1,47 @@
+{:uriI"Şfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/bar-colors.html?type=text/html&id=99f76df426f5c8374b67e54925299e59ceca5455daabcfce929e65b6681557b1:ET:load_pathI"app/assets/assets;T:filenameI"Eapp/assets/assets/global/plugins/morris/examples/bar-colors.html;T:	nameI".global/plugins/morris/examples/bar-colors;T:logical_pathI"3global/plugins/morris/examples/bar-colors.html;T:content_typeI"text/html;T:sourceI"ş<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css">
+    <link rel="stylesheet" href="../morris.css"> </head>
+
+<body>
+    <h1>Bar charts</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// Use Morris.Bar
+Morris.Bar({
+  element: 'graph',
+  data: [
+    {x: '2011 Q1', y: 0},
+    {x: '2011 Q2', y: 1},
+    {x: '2011 Q3', y: 2},
+    {x: '2011 Q4', y: 3},
+    {x: '2012 Q1', y: 4},
+    {x: '2012 Q2', y: 5},
+    {x: '2012 Q3', y: 6},
+    {x: '2012 Q4', y: 7},
+    {x: '2013 Q1', y: 8}
+  ],
+  xkey: 'x',
+  ykeys: ['y'],
+  labels: ['Y'],
+  barColors: function (row, series, type) {
+    if (type === 'bar') {
+      var red = Math.ceil(255 * row.y / this.ymax);
+      return 'rgb(' + red + ',0,0)';
+    }
+    else {
+      return '#000';
+    }
+  }
+});
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"’file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/bar-colors.html;TTF:charsetI"
+utf-8;F:digest"%úSğ6˜œo3ç}Š€ÌÕ7šCÉ?4ï÷™d¥;¬)µíy:lengthiş:dependencies_digest"%cÿ8K‡³h~\ÿzºiò$¦ÿú·s}ó§_¡YE:idI"E99f76df426f5c8374b67e54925299e59ceca5455daabcfce929e65b6681557b1;F:
+mtimel+¦úW

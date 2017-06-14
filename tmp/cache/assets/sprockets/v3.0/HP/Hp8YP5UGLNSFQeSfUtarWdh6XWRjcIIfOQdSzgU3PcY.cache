@@ -1,0 +1,92 @@
+{:uriI"Ûfile:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/responsive/examples/pie2.html?type=text/html&id=406e042b5673f21108a2b6c003734a0c999681389110aa9d6a5f144f6b5baccd:ET:load_pathI"app/assets/assets;T:filenameI"Zapp/assets/assets/global/plugins/amcharts/ammap/plugins/responsive/examples/pie2.html;T:	nameI"Cglobal/plugins/amcharts/ammap/plugins/responsive/examples/pie2;T:logical_pathI"Hglobal/plugins/amcharts/ammap/plugins/responsive/examples/pie2.html;T:content_typeI"text/html;T:sourceI"`
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>amCharts Responsive Example</title>
+        <script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="http://www.amcharts.com/lib/3/pie.js"></script>
+        <script src="../responsive.min.js"></script>
+        <style>
+            body,
+            html {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            }
+        </style>
+        <script>
+            AmCharts.makeChart("chartdiv",
+            {
+                "type": "pie",
+                "titles": [
+                {
+                    "text": "Visitors countries",
+                    "size": 16
+                }],
+                "dataProvider": [
+                {
+                    "country": "United States",
+                    "visits": 7252
+                },
+                {
+                    "country": "China",
+                    "visits": 3882
+                },
+                {
+                    "country": "Japan",
+                    "visits": 1809
+                },
+                {
+                    "country": "Germany",
+                    "visits": 1322
+                },
+                {
+                    "country": "United Kingdom",
+                    "visits": 1122
+                },
+                {
+                    "country": "France",
+                    "visits": 414
+                },
+                {
+                    "country": "India",
+                    "visits": 384
+                },
+                {
+                    "country": "Spain",
+                    "visits": 211
+                }],
+                "valueField": "visits",
+                "titleField": "country",
+                "startEffect": "elastic",
+                "startDuration": 2,
+                "labelRadius": 15,
+                "innerRadius": "50%",
+                "depth3D": 10,
+                "balloonText": "[[title]]<br><span style='font-size:14px'><b>[[value]]</b> ([[percents]]%)</span>",
+                "angle": 15,
+                "legend":
+                {
+                    "position": "right"
+                },
+                "responsive":
+                {
+                    "enabled": true
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="chartdiv" style="width: 100%; height: 100%;"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ßfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/ammap/plugins/responsive/examples/pie2.html;TTF:charsetI"
+utf-8;F:digest"%ΩK∫;G]•bΩÚ7ì≠"‚BÖYÄ›ıî}V©PHÂÎõ.:lengthi`
+:dependencies_digest"%†Ï«UÜ0c‹a8`øçX8†⁄x=Å#ÆÒﬂ*¯∞j|:idI"E406e042b5673f21108a2b6c003734a0c999681389110aa9d6a5f144f6b5baccd;F:
+mtimel+®˙W

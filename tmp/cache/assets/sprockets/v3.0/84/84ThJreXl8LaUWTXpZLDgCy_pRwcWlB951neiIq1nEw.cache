@@ -1,0 +1,30 @@
+{:uriI"‚file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-minicolors/bower.json?type=application/json&id=febd1ac2d2383fd0facf2405d5c798a4f3e759bfcf46cfb5ac95b29aa8c9b6c4:ET:load_pathI"app/assets/assets;T:filenameI"Bapp/assets/assets/global/plugins/jquery-minicolors/bower.json;T:	nameI"+global/plugins/jquery-minicolors/bower;T:logical_pathI"0global/plugins/jquery-minicolors/bower.json;T:content_typeI"application/json;T:sourceI"∆{
+  "name": "jquery-minicolors",
+  "version": "2.1.10",
+  "homepage": "https://github.com/claviska/jquery-minicolors",
+  "authors": [
+    "Cory LaViska"
+  ],
+  "description": "jQuery MiniColors Plugin",
+  "main": [
+    "./jquery.minicolors.js",
+    "./jquery.minicolors.css"
+  ],
+  "keywords": [
+    "jquery",
+    "colorpicker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"èfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/jquery-minicolors/bower.json;TTF:charsetI"
+utf-8;F:digest"%≈ÿÆÿ}G_⁄Ü¢/1,ñ∫ˆÍa@›ÄnÇ∂|Í”Z˝:lengthi∆:dependencies_digest"%˙x$“¿¬&:√T&¿2L2—ÆtL‚0otâﬁ™µ˝ñ⁄:idI"Efebd1ac2d2383fd0facf2405d5c798a4f3e759bfcf46cfb5ac95b29aa8c9b6c4;F:
+mtimel+HÓW

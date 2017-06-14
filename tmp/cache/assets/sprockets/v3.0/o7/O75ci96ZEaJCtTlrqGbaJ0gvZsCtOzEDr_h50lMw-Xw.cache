@@ -1,0 +1,88 @@
+{:uriI"˝file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/funnel.html?type=text/html&id=4c3011aab741515dc6ab67a6c69b0745b3689463e6b5e4280213fa5442bb2417:ET:load_pathI"app/assets/assets;T:filenameI"dapp/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/funnel.html;T:	nameI"Mglobal/plugins/amcharts/amstockcharts/plugins/responsive/examples/funnel;T:logical_pathI"Rglobal/plugins/amcharts/amstockcharts/plugins/responsive/examples/funnel.html;T:content_typeI"text/html;T:sourceI"
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>amCharts Responsive Example</title>
+        <script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="http://www.amcharts.com/lib/3/funnel.js"></script>
+        <script src="../responsive.min.js"></script>
+        <style>
+            body,
+            html {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+            }
+        </style>
+        <script>
+            var chart = AmCharts.makeChart("chartdiv",
+            {
+                "type": "funnel",
+                "dataProvider": [
+                {
+                    "title": "Website visits",
+                    "value": 200
+                },
+                {
+                    "title": "Downloads",
+                    "value": 123
+                },
+                {
+                    "title": "Requested price list",
+                    "value": 98
+                },
+                {
+                    "title": "Contaced for more info",
+                    "value": 72
+                },
+                {
+                    "title": "Purchased",
+                    "value": 35
+                },
+                {
+                    "title": "Contacted for support",
+                    "value": 35
+                },
+                {
+                    "title": "Purchased additional products",
+                    "value": 26
+                }],
+                "balloon":
+                {
+                    "fixedPosition": true
+                },
+                "legend":
+                {},
+                "valueField": "value",
+                "titleField": "title",
+                "marginRight": 240,
+                "marginLeft": 50,
+                "startX": -500,
+                "depth3D": 100,
+                "angle": 40,
+                "outlineAlpha": 1,
+                "outlineColor": "#FFFFFF",
+                "outlineThickness": 2,
+                "labelPosition": "right",
+                "balloonText": "[[title]]: [[value]]n[[description]]",
+                "responsive":
+                {
+                    "enabled": true
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+        <div id="chartdiv" style="width: 100%; height: 100%;"></div>
+    </body>
+
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"±file-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples/funnel.html;TTF:charsetI"
+utf-8;F:digest"%/‰‚ŸJ¥˘œ;∂3¯:ÌÀ$®PÑçü29nlª:lengthi
+:dependencies_digest"%x0¨+ci9>≠—[}≈œ@ıaê¨â)œ‰…If≠:idI"E4c3011aab741515dc6ab67a6c69b0745b3689463e6b5e4280213fa5442bb2417;F:
+mtimel+®˙W

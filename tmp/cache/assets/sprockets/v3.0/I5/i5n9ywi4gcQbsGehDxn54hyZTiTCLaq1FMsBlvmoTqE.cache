@@ -1,0 +1,21 @@
+{:uriI"›file:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/_template.html?type=text/html&id=6dbe590687d63a0703df1e9ea0e70fe98ce684439de0c177123623f010cb95e8:ET:load_pathI"app/assets/assets;T:filenameI"Dapp/assets/assets/global/plugins/morris/examples/_template.html;T:	nameI"-global/plugins/morris/examples/_template;T:logical_pathI"2global/plugins/morris/examples/_template.html;T:content_typeI"text/html;T:sourceI"€<!doctype html>
+
+<head>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.2/raphael-min.js"></script>
+    <script src="../morris.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.js"></script>
+    <script src="lib/example.js"></script>
+    <link rel="stylesheet" href="lib/example.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/prettify/r224/prettify.min.css"> </head>
+
+<body>
+    <h1>Title</h1>
+    <div id="graph"></div> <pre id="code" class="prettyprint linenums">
+// Insert code here:
+// it'll get eval()-ed and prettyprinted.
+</pre> </body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ëfile-digest:///Volumes/Work/Tiger/Current%20Work/2/Rekordio/Rekordio-Web/rekordio/app/assets/assets/global/plugins/morris/examples/_template.html;TTF:charsetI"
+utf-8;F:digest"%ñü‘E!0ÎrKüey‚Îƒ}Ç>ÙtX&ùdÿTMÓAŸ]:lengthi€:dependencies_digest"%˜QI˚ìÂ.éoíì_é«6¶Hëyv€_®HÖp:idI"E6dbe590687d63a0703df1e9ea0e70fe98ce684439de0c177123623f010cb95e8;F:
+mtimel+¶˙W
