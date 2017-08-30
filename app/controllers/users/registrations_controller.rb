@@ -11,7 +11,7 @@ class Users::RegistrationsController < Devise::RegistrationsController
 
   # POST /resource
   def create
-    p "-----------------user signup--------------"
+    p "-------user signup------"
     user = User.new(user_params)
     user.skip_confirmation!
     if user.save
